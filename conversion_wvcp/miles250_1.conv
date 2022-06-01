@@ -1,0 +1,133 @@
+c conversion from graph miles250_0 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with g : the vertex can be colored with an existing color without increasing the score
+c lines starting with s : the first vertex can be colored with the color of the second vertex (numbers from original graph)
+d 0 0
+d 1 1
+d 2 2
+d 3 4
+d 4 3
+d 5 5
+d 6 6
+d 7 7
+d 8 10
+d 9 8
+d 10 9
+d 11 11
+g 12
+g 13
+d 14 12
+d 15 13
+d 16 14
+d 17 15
+d 18 16
+s 19 6
+d 20 17
+s 21 3
+d 22 18
+d 23 19
+d 24 20
+d 25 22
+d 26 21
+s 27 9
+d 28 23
+g 29
+d 30 24
+d 31 25
+d 32 28
+d 33 29
+d 34 26
+d 35 27
+d 36 30
+d 37 31
+d 38 32
+d 39 33
+g 40
+g 41
+g 42
+d 43 34
+d 44 37
+d 45 35
+s 46 35
+d 47 36
+g 48
+g 49
+g 50
+g 51
+d 52 38
+d 53 39
+d 54 40
+d 55 41
+d 56 43
+d 57 42
+d 58 44
+g 59
+d 60 45
+d 61 46
+d 62 47
+d 63 48
+s 64 26
+g 65
+g 66
+d 67 49
+d 68 50
+d 69 51
+s 70 30
+g 71
+d 72 52
+d 73 53
+d 74 54
+d 75 55
+d 76 56
+d 77 57
+d 78 58
+d 79 59
+d 80 60
+g 81
+d 82 61
+d 83 62
+d 84 63
+g 85
+g 86
+g 87
+g 88
+d 89 64
+d 90 65
+g 91
+g 92
+g 93
+g 94
+d 95 66
+g 96
+g 97
+g 98
+g 99
+g 100
+d 101 67
+g 102
+g 103
+g 104
+g 105
+g 106
+d 107 68
+d 108 69
+g 109
+d 110 70
+d 111 71
+d 112 73
+d 113 74
+d 114 72
+g 115
+g 116
+g 117
+g 118
+g 119
+d 120 75
+d 121 76
+d 122 77
+d 123 78
+g 124
+g 125
+g 126
+g 127

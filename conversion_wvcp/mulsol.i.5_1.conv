@@ -1,0 +1,191 @@
+c conversion from graph mulsol.i.5_0 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with g : the vertex can be colored with an existing color without increasing the score
+c lines starting with s : the first vertex can be colored with the color of the second vertex (numbers from original graph)
+d 0 1
+d 1 0
+d 2 3
+d 3 4
+d 4 2
+d 5 5
+d 6 6
+d 7 7
+d 8 8
+d 9 9
+s 10 7
+d 11 10
+s 12 4
+s 13 4
+d 14 11
+d 15 12
+d 16 13
+s 17 5
+d 18 14
+d 19 15
+s 20 2
+d 21 16
+s 22 7
+g 23
+d 24 18
+d 25 19
+d 26 17
+d 27 20
+s 28 5
+s 29 5
+d 30 21
+s 31 4
+d 32 22
+d 33 23
+d 34 24
+s 35 5
+s 36 5
+s 37 7
+s 38 7
+s 39 7
+d 40 25
+g 41
+g 42
+g 43
+d 44 26
+d 45 27
+d 46 28
+d 47 29
+d 48 30
+d 49 31
+s 50 16
+d 51 32
+s 52 7
+s 53 11
+g 54
+d 55 33
+d 56 34
+d 57 35
+d 58 36
+d 59 37
+s 60 5
+s 61 2
+d 62 38
+d 63 39
+d 64 40
+d 65 41
+d 66 42
+d 67 43
+d 68 45
+d 69 44
+s 70 46
+d 71 46
+d 72 47
+d 73 48
+s 74 7
+s 75 4
+d 76 49
+d 77 50
+d 78 51
+d 79 52
+d 80 53
+d 81 54
+d 82 55
+d 83 56
+s 84 80
+g 85
+g 86
+d 87 57
+d 88 58
+d 89 59
+d 90 60
+s 91 7
+g 92
+g 93
+g 94
+d 95 61
+d 96 62
+d 97 63
+s 98 80
+d 99 64
+d 100 65
+d 101 67
+d 102 66
+d 103 68
+d 104 69
+s 105 88
+s 106 16
+s 107 5
+d 108 70
+s 109 96
+s 110 7
+g 111
+d 112 71
+d 113 72
+d 114 73
+d 115 74
+s 116 16
+s 117 16
+s 118 96
+s 119 7
+d 120 75
+d 121 77
+d 122 76
+d 123 78
+d 124 79
+s 125 5
+s 126 5
+s 127 8
+s 128 7
+g 129
+g 130
+d 131 80
+d 132 81
+s 133 80
+d 134 82
+d 135 83
+s 136 8
+s 137 8
+s 138 4
+d 139 84
+g 140
+g 141
+d 142 85
+d 143 86
+d 144 87
+d 145 88
+d 146 90
+d 147 89
+s 148 5
+g 149
+g 150
+d 151 91
+d 152 92
+d 153 93
+d 154 94
+d 155 95
+d 156 96
+g 157
+g 158
+d 159 97
+d 160 98
+d 161 99
+d 162 100
+d 163 101
+d 164 102
+s 165 5
+s 166 7
+s 167 8
+s 168 5
+g 169
+d 170 103
+d 171 104
+d 172 107
+d 173 106
+d 174 108
+d 175 105
+d 176 109
+d 177 110
+d 178 111
+d 179 112
+d 180 113
+d 181 114
+d 182 115
+g 183
+g 184
+g 185

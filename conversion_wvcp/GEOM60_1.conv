@@ -1,0 +1,65 @@
+c conversion from graph GEOM60_0 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with g : the vertex can be colored with an existing color without increasing the score
+c lines starting with s : the first vertex can be colored with the color of the second vertex (numbers from original graph)
+d 0 0
+d 1 1
+d 2 2
+d 3 3
+d 4 4
+d 5 5
+d 6 6
+d 7 7
+d 8 8
+d 9 9
+d 10 10
+d 11 11
+d 12 12
+d 13 13
+d 14 15
+d 15 14
+d 16 16
+d 17 17
+d 18 18
+d 19 19
+d 20 20
+d 21 21
+d 22 22
+d 23 23
+d 24 24
+s 25 18
+d 26 25
+d 27 26
+d 28 28
+d 29 27
+d 30 29
+d 31 30
+d 32 34
+d 33 32
+d 34 31
+d 35 33
+g 36
+d 37 35
+d 38 36
+d 39 37
+d 40 38
+d 41 39
+g 42
+d 43 40
+d 44 46
+d 45 42
+d 46 41
+d 47 43
+d 48 44
+d 49 45
+g 50
+g 51
+d 52 47
+d 53 48
+d 54 49
+d 55 50
+s 56 17
+d 57 51
+d 58 52
+g 59

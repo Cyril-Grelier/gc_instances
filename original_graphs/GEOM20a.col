@@ -1,0 +1,42 @@
+c Geometric graph with bandwidth and node weights
+c Parameters: Vertices 20, Max node weight 10, Max edge weight 10
+c      Maximum squared distance for edge (in 10,000 by 10,000 square) 10000000
+c not original file ! Modified for weighted vertex coloring problem
+p edge 20 37
+e 1 6
+e 1 16
+e 1 18
+e 1 19
+e 2 5
+e 3 4
+e 3 7
+e 3 9
+e 3 15
+e 3 20
+e 4 7
+e 4 8
+e 4 9
+e 4 15
+e 4 20
+e 5 10
+e 5 14
+e 6 16
+e 6 18
+e 6 19
+e 7 8
+e 7 9
+e 7 11
+e 7 15
+e 8 9
+e 8 11
+e 8 12
+e 8 20
+e 9 11
+e 9 15
+e 9 20
+e 10 14
+e 11 12
+e 11 20
+e 16 17
+e 16 18
+e 18 19

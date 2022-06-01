@@ -1,0 +1,52 @@
+c conversion from graph p31 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with g : the vertex can be colored with an existing color without increasing the score
+c lines starting with s : the first vertex can be colored with the color of the second vertex (numbers from original graph)
+d 0 41
+d 1 37
+d 2 2
+d 3 0
+d 4 36
+d 5 16
+d 6 4
+d 7 43
+d 8 29
+d 9 26
+d 10 8
+d 11 18
+d 12 28
+d 13 19
+d 14 9
+d 15 25
+d 16 3
+d 17 42
+d 18 46
+d 19 13
+d 20 11
+d 21 10
+d 22 45
+d 23 39
+d 24 1
+d 25 14
+d 26 23
+d 27 33
+d 28 40
+d 29 30
+d 30 38
+d 31 22
+d 32 6
+d 33 32
+d 34 27
+d 35 12
+d 36 31
+d 37 44
+d 38 7
+d 39 20
+d 40 21
+d 41 5
+d 42 17
+d 43 24
+d 44 15
+d 45 35
+d 46 34

@@ -1,0 +1,216 @@
+c conversion from graph zeroin.i.2_0 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with g : the vertex can be colored with an existing color without increasing the score
+c lines starting with s : the first vertex can be colored with the color of the second vertex (numbers from original graph)
+d 0 0
+d 1 1
+d 2 2
+d 3 3
+d 4 4
+g 5
+d 6 5
+d 7 6
+d 8 7
+d 9 8
+d 10 10
+d 11 9
+d 12 11
+d 13 12
+d 14 13
+s 15 11
+s 16 1
+s 17 1
+g 18
+d 19 14
+d 20 15
+d 21 16
+d 22 17
+s 23 1
+g 24
+g 25
+d 26 18
+d 27 19
+d 28 20
+d 29 21
+d 30 22
+s 31 13
+s 32 11
+d 33 23
+s 34 4
+g 35
+g 36
+d 37 24
+d 38 25
+d 39 26
+d 40 27
+s 41 13
+d 42 28
+d 43 29
+s 44 20
+g 45
+g 46
+d 47 30
+s 48 13
+s 49 13
+d 50 31
+s 51 50
+s 52 1
+g 53
+g 54
+g 55
+g 56
+d 57 32
+d 58 33
+d 59 34
+d 60 36
+d 61 35
+d 62 37
+d 63 38
+d 64 39
+s 65 30
+d 66 40
+s 67 14
+s 68 50
+s 69 20
+g 70
+g 71
+g 72
+d 73 41
+d 74 42
+d 75 43
+d 76 44
+d 77 45
+d 78 46
+d 79 47
+s 80 50
+s 81 50
+s 82 22
+g 83
+d 84 48
+d 85 49
+d 86 50
+s 87 2
+d 88 51
+d 89 52
+g 90
+g 91
+g 92
+g 93
+d 94 53
+d 95 54
+d 96 55
+d 97 56
+d 98 57
+s 99 11
+s 100 11
+g 101
+g 102
+g 103
+g 104
+g 105
+d 106 58
+d 107 59
+d 108 61
+d 109 60
+d 110 62
+d 111 63
+d 112 64
+g 113
+g 114
+g 115
+g 116
+d 117 66
+d 118 65
+d 119 67
+d 120 68
+d 121 69
+s 122 1
+d 123 70
+s 124 13
+s 125 13
+g 126
+g 127
+g 128
+g 129
+d 130 71
+d 131 72
+d 132 73
+d 133 74
+s 134 111
+d 135 75
+s 136 14
+s 137 11
+d 138 76
+d 139 78
+d 140 77
+d 141 79
+d 142 80
+s 143 3
+g 144
+g 145
+d 146 81
+d 147 86
+d 148 82
+d 149 83
+d 150 84
+d 151 85
+d 152 87
+d 153 88
+s 154 121
+d 155 89
+s 156 13
+s 157 13
+s 158 11
+s 159 3
+g 160
+g 161
+g 162
+g 163
+g 164
+g 165
+d 166 90
+d 167 91
+d 168 92
+s 169 11
+d 170 93
+s 171 4
+g 172
+g 173
+g 174
+g 175
+d 176 94
+d 177 95
+d 178 96
+d 179 97
+d 180 98
+d 181 99
+s 182 4
+g 183
+g 184
+g 185
+d 186 100
+d 187 101
+d 188 102
+d 189 103
+s 190 1
+d 191 104
+g 192
+g 193
+g 194
+g 195
+g 196
+g 197
+g 198
+d 199 105
+d 200 106
+s 201 39
+g 202
+g 203
+g 204
+g 205
+g 206
+g 207
+g 208
+g 209
+g 210

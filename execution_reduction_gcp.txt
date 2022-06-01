@@ -1,0 +1,514 @@
+C2000.5
+Cliques partially loaded
+Reduction 1 (0 + 0)
+C2000.9
+Cliques partially loaded
+Reduction 1 (0 + 0)
+DSJC1000.1
+Reduction 1 (0 + 0)
+DSJC1000.5
+Cliques partially loaded
+Reduction 1 (0 + 0)
+DSJC1000.9
+Cliques partially loaded
+Reduction 1 (0 + 0)
+DSJC125.1g
+Reduction 1 (0 + 0)
+DSJC125.1gb
+Reduction 1 (0 + 0)
+DSJC125.5g
+Reduction 1 (0 + 0)
+DSJC125.5gb
+Reduction 1 (0 + 0)
+DSJC125.9g
+Cliques partially loaded
+Reduction 1 (0 + 0)
+DSJC125.9gb
+Cliques partially loaded
+Reduction 1 (0 + 0)
+DSJC250.1
+Reduction 1 (0 + 0)
+DSJC250.5
+Reduction 1 (0 + 0)
+DSJC250.9
+p line does not conform but continue anyway
+Cliques partially loaded
+Reduction 1 (0 + 0)
+DSJC500.1
+Reduction 1 (0 + 0)
+DSJC500.5
+Cliques partially loaded
+Reduction 1 (0 + 0)
+DSJC500.9
+Cliques partially loaded
+Reduction 1 (0 + 0)
+DSJR500.1
+Reduction 1 (0 + 3)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+GEOM100
+Reduction 1 (0 + 2)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+GEOM100a
+Reduction 1 (0 + 2)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+GEOM100b
+Reduction 1 (0 + 3)
+Reduction 2 (0 + 0)
+GEOM110
+Reduction 1 (0 + 2)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+GEOM110a
+Reduction 1 (0 + 2)
+Reduction 2 (0 + 0)
+GEOM110b
+Reduction 1 (0 + 3)
+Reduction 2 (0 + 0)
+GEOM120
+Reduction 1 (0 + 2)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+GEOM120a
+Reduction 1 (0 + 2)
+Reduction 2 (0 + 0)
+GEOM120b
+Reduction 1 (0 + 2)
+Reduction 2 (0 + 0)
+GEOM20
+Reduction 1 (2 + 1)
+Reduction 2 (0 + 0)
+GEOM20a
+Reduction 1 (1 + 5)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 1)
+Reduction 4 (0 + 0)
+GEOM20b
+Reduction 1 (0 + 4)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+GEOM30
+Reduction 1 (0 + 5)
+Reduction 2 (0 + 2)
+Reduction 3 (0 + 1)
+Reduction 4 (0 + 1)
+Reduction 5 (0 + 0)
+GEOM30a
+Reduction 1 (0 + 2)
+Reduction 2 (0 + 0)
+GEOM30b
+Reduction 1 (0 + 4)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+GEOM40
+Reduction 1 (1 + 3)
+Reduction 2 (0 + 2)
+Reduction 3 (0 + 0)
+GEOM40a
+Reduction 1 (0 + 0)
+GEOM40b
+Reduction 1 (0 + 3)
+Reduction 2 (0 + 0)
+GEOM50
+Reduction 1 (1 + 1)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+GEOM50a
+Reduction 1 (0 + 1)
+Reduction 2 (0 + 0)
+GEOM50b
+Reduction 1 (0 + 2)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+GEOM60
+Reduction 1 (0 + 1)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+GEOM60a
+Reduction 1 (0 + 1)
+Reduction 2 (0 + 0)
+GEOM60b
+Reduction 1 (0 + 2)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+GEOM70
+Reduction 1 (0 + 1)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+GEOM70a
+Reduction 1 (0 + 1)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+GEOM70b
+Reduction 1 (0 + 2)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 1)
+Reduction 4 (0 + 1)
+Reduction 5 (0 + 0)
+GEOM80
+Reduction 1 (0 + 1)
+Reduction 2 (0 + 0)
+GEOM80a
+Reduction 1 (0 + 1)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+GEOM80b
+Reduction 1 (0 + 2)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 1)
+Reduction 4 (0 + 1)
+Reduction 5 (0 + 0)
+GEOM90
+Reduction 1 (0 + 3)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+GEOM90a
+Reduction 1 (0 + 2)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+GEOM90b
+Reduction 1 (0 + 2)
+Reduction 2 (0 + 0)
+R100_1g
+Reduction 1 (0 + 1)
+Reduction 2 (0 + 0)
+R100_1gb
+Reduction 1 (0 + 1)
+Reduction 2 (0 + 0)
+R100_5g
+Reduction 1 (0 + 0)
+R100_5gb
+Reduction 1 (0 + 0)
+R100_9g
+Cliques partially loaded
+Reduction 1 (0 + 0)
+R100_9gb
+Cliques partially loaded
+Reduction 1 (0 + 0)
+R50_1g
+Reduction 1 (1 + 3)
+Reduction 2 (0 + 0)
+R50_1gb
+Reduction 1 (1 + 3)
+Reduction 2 (0 + 0)
+R50_5g
+Reduction 1 (0 + 0)
+R50_5gb
+Reduction 1 (0 + 0)
+R50_9g
+Reduction 1 (0 + 0)
+R50_9gb
+Reduction 1 (0 + 0)
+R75_1g
+Reduction 1 (0 + 1)
+Reduction 2 (0 + 0)
+R75_1gb
+Reduction 1 (0 + 1)
+Reduction 2 (0 + 0)
+R75_5g
+Reduction 1 (0 + 0)
+R75_5gb
+Reduction 1 (0 + 0)
+R75_9g
+Cliques partially loaded
+Reduction 1 (0 + 0)
+R75_9gb
+Cliques partially loaded
+Reduction 1 (0 + 0)
+flat1000_50_0
+Cliques partially loaded
+Reduction 1 (0 + 0)
+flat1000_60_0
+Cliques partially loaded
+Reduction 1 (0 + 0)
+flat1000_76_0
+p line does not conform but continue anyway
+Cliques partially loaded
+Reduction 1 (0 + 0)
+inithx.i.1
+Reduction 1 (345 + 141)
+Reduction 2 (0 + 13)
+Reduction 3 (0 + 1)
+Reduction 4 (0 + 0)
+inithx.i.2
+Reduction 1 (87 + 186)
+Reduction 2 (0 + 17)
+Reduction 3 (0 + 1)
+Reduction 4 (0 + 1)
+Reduction 5 (0 + 1)
+Reduction 6 (0 + 0)
+inithx.i.3
+Reduction 1 (62 + 203)
+Reduction 2 (0 + 13)
+Reduction 3 (0 + 0)
+latin_square_10
+p line does not conform but continue anyway
+Cliques partially loaded
+Reduction 1 (0 + 0)
+le450_15a
+Reduction 1 (0 + 1)
+Reduction 2 (0 + 0)
+le450_15b
+Reduction 1 (0 + 4)
+Reduction 2 (0 + 0)
+le450_15c
+Reduction 1 (0 + 0)
+le450_15d
+Reduction 1 (0 + 0)
+le450_25a
+Reduction 1 (0 + 5)
+Reduction 2 (0 + 0)
+le450_25b
+Reduction 1 (0 + 3)
+Reduction 2 (0 + 0)
+le450_25c
+Reduction 1 (0 + 0)
+le450_25d
+Reduction 1 (0 + 0)
+miles1000
+Reduction 1 (0 + 3)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+miles1500
+Reduction 1 (0 + 3)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 1)
+Reduction 4 (0 + 1)
+Reduction 5 (0 + 1)
+Reduction 6 (0 + 0)
+miles250
+Reduction 1 (3 + 15)
+Reduction 2 (0 + 3)
+Reduction 3 (0 + 2)
+Reduction 4 (0 + 0)
+miles500
+Reduction 1 (0 + 4)
+Reduction 2 (0 + 0)
+mulsol.i.5
+Reduction 1 (10 + 57)
+Reduction 2 (0 + 2)
+Reduction 3 (0 + 1)
+Reduction 4 (0 + 1)
+Reduction 5 (0 + 1)
+Reduction 6 (0 + 1)
+Reduction 7 (0 + 1)
+Reduction 8 (0 + 1)
+Reduction 9 (0 + 1)
+Reduction 10 (0 + 0)
+myciel5g
+Reduction 1 (0 + 0)
+myciel5gb
+Reduction 1 (0 + 0)
+myciel6g
+Reduction 1 (0 + 0)
+myciel6gb
+Reduction 1 (0 + 0)
+myciel7g
+Reduction 1 (0 + 0)
+myciel7gb
+Reduction 1 (0 + 0)
+p06
+Reduction 1 (0 + 0)
+p07
+Reduction 1 (0 + 0)
+p08
+Reduction 1 (0 + 0)
+p09
+Reduction 1 (0 + 0)
+p10
+Reduction 1 (0 + 0)
+p11
+Reduction 1 (0 + 0)
+p12
+Reduction 1 (0 + 0)
+p13
+Reduction 1 (0 + 0)
+p14
+Reduction 1 (0 + 0)
+p15
+Reduction 1 (0 + 0)
+p16
+Reduction 1 (0 + 0)
+p17
+Reduction 1 (0 + 0)
+p18
+Reduction 1 (0 + 0)
+p19
+Reduction 1 (0 + 0)
+p20
+Reduction 1 (0 + 0)
+p21
+Reduction 1 (0 + 0)
+p22
+Reduction 1 (0 + 0)
+p23
+Reduction 1 (0 + 0)
+p24
+Reduction 1 (0 + 0)
+p25
+Reduction 1 (0 + 0)
+p26
+Reduction 1 (0 + 0)
+p27
+Reduction 1 (0 + 0)
+p28
+Reduction 1 (0 + 0)
+p29
+Reduction 1 (0 + 0)
+p30
+Reduction 1 (0 + 0)
+p31
+Reduction 1 (0 + 0)
+p32
+Reduction 1 (0 + 0)
+p33
+Reduction 1 (0 + 0)
+p34
+Reduction 1 (0 + 0)
+p35
+Reduction 1 (0 + 0)
+p36
+Reduction 1 (0 + 0)
+p38
+Reduction 1 (0 + 0)
+p40
+Reduction 1 (0 + 0)
+p41
+Reduction 1 (0 + 0)
+p42
+Reduction 1 (0 + 0)
+queen10_10
+Reduction 1 (0 + 0)
+queen10_10g
+Reduction 1 (0 + 0)
+queen10_10gb
+Reduction 1 (0 + 0)
+queen11_11
+Reduction 1 (0 + 0)
+queen11_11g
+Reduction 1 (0 + 0)
+queen11_11gb
+Reduction 1 (0 + 0)
+queen12_12
+Reduction 1 (0 + 0)
+queen12_12g
+Reduction 1 (0 + 0)
+queen12_12gb
+Reduction 1 (0 + 0)
+queen13_13
+Reduction 1 (0 + 0)
+queen14_14
+Reduction 1 (0 + 0)
+queen15_15
+Reduction 1 (0 + 0)
+queen16_16
+Reduction 1 (0 + 0)
+queen8_8g
+Reduction 1 (0 + 0)
+queen8_8gb
+Reduction 1 (0 + 0)
+queen9_9g
+Reduction 1 (0 + 0)
+queen9_9gb
+Reduction 1 (0 + 0)
+r01
+Reduction 1 (0 + 0)
+r02
+Reduction 1 (0 + 0)
+r03
+Reduction 1 (0 + 0)
+r04
+Reduction 1 (0 + 0)
+r05
+Reduction 1 (0 + 0)
+r06
+Reduction 1 (0 + 0)
+r07
+Reduction 1 (0 + 0)
+r08
+Reduction 1 (0 + 0)
+r09
+Reduction 1 (0 + 0)
+r10
+Reduction 1 (0 + 0)
+r11
+Reduction 1 (0 + 0)
+r12
+Reduction 1 (0 + 0)
+r13
+Reduction 1 (0 + 0)
+r14
+Reduction 1 (0 + 0)
+r15
+Reduction 1 (0 + 0)
+r16
+Reduction 1 (0 + 0)
+r17
+Reduction 1 (0 + 0)
+r18
+Reduction 1 (0 + 0)
+r19
+Reduction 1 (0 + 0)
+r20
+Reduction 1 (0 + 0)
+r21
+Reduction 1 (0 + 0)
+r22
+Reduction 1 (0 + 0)
+r23
+Reduction 1 (0 + 0)
+r24
+Reduction 1 (0 + 0)
+r25
+Reduction 1 (0 + 0)
+r26
+Reduction 1 (0 + 0)
+r27
+Reduction 1 (0 + 0)
+r28
+Reduction 1 (0 + 0)
+r29
+Reduction 1 (0 + 0)
+r30
+Reduction 1 (0 + 0)
+wap01a
+p line does not conform but continue anyway
+Reduction 1 (0 + 0)
+wap02a
+p line does not conform but continue anyway
+Reduction 1 (0 + 0)
+wap03a
+p line does not conform but continue anyway
+Reduction 1 (0 + 0)
+wap04a
+p line does not conform but continue anyway
+Reduction 1 (0 + 0)
+wap05a
+p line does not conform but continue anyway
+Reduction 1 (0 + 2)
+Reduction 2 (0 + 0)
+wap06a
+p line does not conform but continue anyway
+Reduction 1 (0 + 2)
+Reduction 2 (0 + 0)
+wap07a
+p line does not conform but continue anyway
+Reduction 1 (0 + 2)
+Reduction 2 (0 + 0)
+wap08a
+p line does not conform but continue anyway
+Reduction 1 (0 + 1)
+Reduction 2 (0 + 0)
+zeroin.i.1
+Reduction 1 (85 + 28)
+Reduction 2 (0 + 3)
+Reduction 3 (0 + 0)
+zeroin.i.2
+Reduction 1 (54 + 55)
+Reduction 2 (0 + 1)
+Reduction 3 (0 + 0)
+zeroin.i.3
+Reduction 1 (49 + 56)
+Reduction 2 (0 + 0)

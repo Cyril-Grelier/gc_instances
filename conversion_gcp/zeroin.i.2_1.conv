@@ -1,0 +1,216 @@
+c conversion from graph zeroin.i.2_0 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with g : the vertex can be colored with an existing color without increasing the score
+c lines starting with s : the first vertex can be colored with the color of the second vertex (numbers from original graph)
+d 0 0
+d 1 1
+d 2 2
+d 3 3
+d 4 5
+d 5 6
+d 6 7
+d 7 8
+d 8 9
+d 9 10
+d 10 12
+d 11 13
+d 12 11
+d 13 15
+d 14 16
+d 15 17
+d 16 18
+d 17 4
+d 18 14
+d 19 19
+d 20 20
+d 21 21
+d 22 22
+d 23 23
+d 24 24
+d 25 25
+d 26 26
+d 27 27
+d 28 31
+d 29 39
+d 30 43
+d 31 28
+d 32 46
+d 33 48
+d 34 54
+d 35 29
+d 36 49
+d 37 32
+d 38 33
+d 39 34
+d 40 35
+d 41 36
+d 42 55
+d 43 40
+d 44 30
+d 45 41
+d 46 67
+d 47 37
+d 48 38
+d 49 44
+d 50 42
+d 51 50
+d 52 75
+d 53 45
+d 54 56
+d 55 47
+d 56 51
+d 57 86
+d 58 68
+d 59 57
+d 60 52
+d 61 53
+d 62 58
+d 63 59
+d 64 60
+d 65 61
+d 66 62
+d 67 63
+d 68 69
+d 69 64
+d 70 65
+d 71 66
+d 72 76
+d 73 70
+d 74 71
+d 75 72
+d 76 87
+d 77 77
+d 78 73
+s 79 78
+s 80 56
+s 81 56
+s 82 45
+d 83 74
+d 84 78
+s 85 73
+d 86 79
+d 87 80
+d 88 81
+d 89 82
+d 90 83
+d 91 84
+s 92 54
+s 93 68
+s 94 68
+s 95 43
+s 96 35
+d 97 85
+s 98 73
+s 99 86
+d 100 88
+s 101 90
+s 102 90
+d 103 89
+d 104 90
+s 105 90
+s 106 90
+s 107 90
+s 108 90
+s 109 90
+s 110 90
+d 111 91
+s 112 54
+s 113 54
+s 114 31
+s 115 73
+d 116 92
+d 117 93
+d 118 94
+d 119 95
+d 120 96
+s 121 23
+s 122 23
+s 123 43
+s 124 43
+s 125 22
+s 126 22
+s 127 22
+s 128 22
+d 129 97
+d 130 98
+s 131 73
+s 132 24
+s 133 24
+s 134 24
+s 135 24
+s 136 50
+s 137 50
+s 138 50
+d 139 99
+s 140 50
+s 141 19
+s 142 50
+s 143 50
+s 144 50
+d 145 100
+d 146 101
+s 147 50
+s 148 18
+s 149 18
+s 150 19
+s 151 19
+s 152 19
+s 153 18
+s 154 18
+s 155 18
+s 156 18
+g 157
+g 158
+g 159
+g 160
+g 161
+g 162
+g 163
+g 164
+g 165
+g 166
+g 167
+g 168
+g 169
+g 170
+g 171
+g 172
+g 173
+g 174
+g 175
+g 176
+g 177
+g 178
+g 179
+g 180
+g 181
+g 182
+g 183
+g 184
+g 185
+g 186
+g 187
+g 188
+g 189
+g 190
+g 191
+g 192
+g 193
+g 194
+g 195
+g 196
+g 197
+g 198
+g 199
+g 200
+g 201
+g 202
+g 203
+g 204
+g 205
+g 206
+g 207
+g 208
+g 209
+g 210

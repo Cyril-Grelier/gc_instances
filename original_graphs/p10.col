@@ -1,0 +1,34 @@
+c not original file ! May have been modified for weighted vertex coloring problem (edges and vertices stay the same only weights may have been moved to an other file)
+p edge 16 32
+e 1 2
+e 1 7
+e 1 9
+e 1 15
+e 2 8
+e 2 10
+e 2 16
+e 3 4
+e 3 5
+e 3 6
+e 3 11
+e 4 5
+e 4 6
+e 4 12
+e 5 6
+e 5 13
+e 6 14
+e 7 8
+e 7 9
+e 7 15
+e 8 10
+e 8 16
+e 9 10
+e 9 15
+e 10 16
+e 11 12
+e 11 13
+e 11 14
+e 12 13
+e 12 14
+e 13 14
+e 15 16
