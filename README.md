@@ -6,7 +6,7 @@ This repo lists several instances used in the Graph Coloring Problem (GCP) and t
 
 ### add this module to your project :
 
-    git submodule add https://github.com/Cyril-Grl/gc_instances.git instances
+    git submodule add https://github.com/Cyril-Grelier/gc_instances.git instances
 
 ### remove the module from your project :
 
