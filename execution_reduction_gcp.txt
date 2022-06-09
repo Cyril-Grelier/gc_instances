@@ -31,7 +31,6 @@ Reduction 1 (0 + 0)
 DSJC250.5
 Reduction 1 (0 + 0)
 DSJC250.9
-p line does not conform but continue anyway
 Cliques partially loaded
 Reduction 1 (0 + 0)
 DSJC500.1
@@ -224,7 +223,6 @@ flat1000_60_0
 Cliques partially loaded
 Reduction 1 (0 + 0)
 flat1000_76_0
-p line does not conform but continue anyway
 Cliques partially loaded
 Reduction 1 (0 + 0)
 inithx.i.1
@@ -244,7 +242,6 @@ Reduction 1 (62 + 203)
 Reduction 2 (0 + 13)
 Reduction 3 (0 + 0)
 latin_square_10
-p line does not conform but continue anyway
 Cliques partially loaded
 Reduction 1 (0 + 0)
 le450_15a
@@ -474,31 +471,23 @@ Reduction 1 (0 + 0)
 r30
 Reduction 1 (0 + 0)
 wap01a
-p line does not conform but continue anyway
 Reduction 1 (0 + 0)
 wap02a
-p line does not conform but continue anyway
 Reduction 1 (0 + 0)
 wap03a
-p line does not conform but continue anyway
 Reduction 1 (0 + 0)
 wap04a
-p line does not conform but continue anyway
 Reduction 1 (0 + 0)
 wap05a
-p line does not conform but continue anyway
 Reduction 1 (0 + 2)
 Reduction 2 (0 + 0)
 wap06a
-p line does not conform but continue anyway
 Reduction 1 (0 + 2)
 Reduction 2 (0 + 0)
 wap07a
-p line does not conform but continue anyway
 Reduction 1 (0 + 2)
 Reduction 2 (0 + 0)
 wap08a
-p line does not conform but continue anyway
 Reduction 1 (0 + 1)
 Reduction 2 (0 + 0)
 zeroin.i.1
@@ -512,3 +501,22 @@ Reduction 3 (0 + 0)
 zeroin.i.3
 Reduction 1 (49 + 56)
 Reduction 2 (0 + 0)
+flat300_28_0
+Reduction 1 (0 + 0)
+r1000.5
+Cliques partially loaded
+Reduction 1 (0 + 4)
+Cliques partially loaded
+Reduction 2 (0 + 4)
+Cliques partially loaded
+Reduction 3 (0 + 4)
+Cliques partially loaded
+Reduction 4 (0 + 4)
+Cliques partially loaded
+Reduction 5 (0 + 2)
+Cliques partially loaded
+Reduction 6 (0 + 2)
+Cliques partially loaded
+Reduction 7 (0 + 1)
+Cliques partially loaded
+Reduction 8 (0 + 0)

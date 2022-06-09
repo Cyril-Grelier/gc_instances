@@ -14,6 +14,12 @@ def main():
     # to reduce all instances (listed in instance_list.txt)
     # reduction_all(timeout=20, problem="wvcp")
     reduction_all(timeout=20, problem="gcp")
+    # inst = "flat300_28_0"
+    # nb_vertices, nb_reduc1, nb_reduc2 = reduction(inst, 20, "gcp")
+    # print(inst, nb_vertices, nb_reduc1, nb_reduc2)
+    # inst = "r1000.5"
+    # nb_vertices, nb_reduc1, nb_reduc2 = reduction(inst, 20, "gcp")
+    # print(inst, nb_vertices, nb_reduc1, nb_reduc2)
 
 
 @dataclass
@@ -355,7 +361,7 @@ def load_graph(instance_file: str, weights_file: str, cliques_file: str) -> Grap
                     try:
                         _, _, nb_vertices_str, nb_edges_str = line.split()
                     except ValueError as e:
-                        print("p line does not conform but continue anyway")
+                        # print("p line does not conform but continue anyway")
                         _, _, nb_vertices_str, nb_edges_str, _ = line.split()
                     nb_vertices = int(nb_vertices_str)
                     nb_edges = int(nb_edges_str)
