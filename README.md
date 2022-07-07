@@ -90,10 +90,11 @@ If a published score is different than a recomputed and validate one with more t
 
 ## List of instances
 
-DIMAC_large.txt, DIMAC_small.txt, pxx.txt and rxx.txt are the lists of instances used in the state of the art to compare the algorithms. other.txt lists instances in the directory but not currently used for comparison in the state of the art.
+DIMAC_large.txt, DIMAC_small.txt, pxx.txt and rxx.txt are the lists of instances used in the state of the art (for WVCP) to compare the algorithms. other.txt lists instances in the directory but not currently used for comparison in the state of the art (for WVCP).
 
 ## source of the files :
 
+- various ones for GCP : https://sites.google.com/site/graphcoloring/files
 - wvcp_original: http://www.info.univ-angers.fr/pub/hao/wvcp.html
 - graph_coloring : DIMACS Challenge II
 - bandwidth_multicoloring_instances : https://mat.gsia.cmu.edu/COLOR04/
