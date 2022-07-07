@@ -10,7 +10,7 @@ c              David S. Johnson, Cecilia R. Aragon,
 c              Lyle A. McGeoch and Catherine Schevon
 c              Operations Research, 39, 378-406 (1991)
 c
-p edge 1000 499652
+p edge 1000 249826
 e 3 1
 e 4 2
 e 4 3

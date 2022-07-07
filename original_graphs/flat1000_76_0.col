@@ -12,7 +12,7 @@ c COLOR VERIFICATION: Using the permuted order
 c under simple greedy yields the specified
 c coloring number
 c Color = 76 specified partitions = 76
-p edge 1000 246708 94
+p edge 1000 246708
 e 3 1
 e 5 2
 e 5 4

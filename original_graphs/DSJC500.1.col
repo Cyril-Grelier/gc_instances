@@ -6,11 +6,11 @@ c DESCRIPTION: Random graph used in the paper
 c              "Optimization by Simulated Annealing: An
 c               Experimental Evaluation; Part II, Graph
 c               Coloring and Number Partitioning" by
-c              David S. Johnson, Cecilia R. Aragon,
+c              David S. Johnson, Cecilia R. Aragon, 
 c              Lyle A. McGeoch and Catherine Schevon
 c              Operations Research, 39, 378-406 (1991)
 c
-p edge 500 24916
+p edge 500 12458
 e 6 2
 e 8 3
 e 8 4
