@@ -1,0 +1,85 @@
+c conversion from graph jean_0 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with g : the vertex can be colored with an existing color without increasing the score
+c lines starting with s : the first vertex can be colored with the color of the second vertex (numbers from original graph)
+d 0 0
+d 1 1
+d 2 2
+d 3 3
+d 4 4
+d 5 6
+d 6 5
+d 7 7
+d 8 8
+d 9 9
+d 10 10
+d 11 13
+d 12 18
+d 13 14
+d 14 23
+d 15 11
+d 16 12
+d 17 19
+d 18 39
+d 19 15
+d 20 16
+d 21 17
+d 22 20
+d 23 21
+d 24 22
+d 25 24
+d 26 25
+d 27 26
+d 28 27
+d 29 37
+d 30 28
+s 31 16
+d 32 29
+d 33 30
+d 34 31
+d 35 38
+d 36 32
+d 37 33
+d 38 34
+d 39 35
+d 40 36
+s 41 0
+d 42 43
+d 43 40
+d 44 41
+s 45 21
+s 46 4
+s 47 4
+d 48 42
+d 49 44
+d 50 47
+d 51 45
+s 52 0
+s 53 1
+d 54 46
+s 55 2
+s 56 0
+s 57 3
+s 58 0
+s 59 3
+s 60 0
+s 61 0
+s 62 0
+s 63 0
+s 64 0
+s 65 0
+s 66 0
+s 67 0
+s 68 1
+s 69 1
+s 70 1
+s 71 1
+s 72 1
+s 73 0
+s 74 1
+s 75 1
+s 76 0
+g 77
+g 78
+g 79

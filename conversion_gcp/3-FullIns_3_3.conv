@@ -1,0 +1,43 @@
+c conversion from graph 3-FullIns_3_2 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with g : the vertex can be colored with an existing color without increasing the score
+c lines starting with s : the first vertex can be colored with the color of the second vertex (numbers from original graph)
+d 0 0
+d 1 11
+d 2 6
+d 3 7
+d 4 1
+d 5 2
+d 6 8
+d 7 9
+d 8 10
+d 9 3
+d 10 4
+d 11 5
+s 12 0
+s 13 0
+d 14 19
+d 15 20
+d 16 12
+d 17 13
+s 18 0
+s 19 0
+s 20 0
+s 21 2
+s 22 2
+d 23 21
+d 24 22
+d 25 14
+s 26 0
+s 27 0
+s 28 4
+s 29 4
+d 30 15
+d 31 16
+d 32 17
+d 33 18
+s 34 0
+s 35 0
+s 36 0
+s 37 0
