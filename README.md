@@ -73,19 +73,24 @@ For GCP, another reduction rule can be applied, if you are looking for a solutio
 
 ## Best scores
 
-`best_known_score_wvcp.txt` and `best_known_score_gcp.txt` list the best known scores for each problem.
+`best_score_wvcp.txt` and `best_score_gcp.txt` list the best known scores for each problem.
 
-On each line you can find : the name of the instance, the score, a `*` if the score is proved optimal otherwise a `-`
+On each line you can find : the name of the instance, the score, a `*` if the score is proved optimal otherwise a `-` if non proved optimal and `?` if the score is unknown (I just used [3], [4] and [7] to fill this file for the moment)
 
-Most of these scores are reported scores, the solutions linked to the score are not always available to validate the score and the time spent to reach these scores depends on the article (1h for the score of [3] [4], up to several days for [5]).
+Most of these scores are reported scores, the solutions linked to the score are not always available to validate the score and the time spent to reach these scores depends on the article (1h for the score of [5] [6], up to several days for [7]).
 
 If a published score is different than a recomputed and validate one with more time or other advantages, then the recomputed one is kept.
 
-[3] Nogueira, Bruno, Eduardo Tavares, et Paulo Maciel. «Iterated Local Search with Tabu Search for the Weighted Vertex Coloring Problem». Computers & Operations Research 125 (1 janvier 2021): 105087. https://doi.org/10.1016/j.cor.2020.105087.
+[3] L. Moalic and A. Gondran, “Variations on memetic algorithms for graph coloring problems,” J Heuristics, vol. 24, no. 1, pp. 1–24, Feb. 2018, doi: 10.1007/s10732-017-9354-9.
 
-[4] Cyril Grelier, Olivier Goudet, Jin-Kao Hao. On monte carlo tree search for weighted vertex voloring. Proceedings of the 22nd European Conference on Evolutionary Computation in Combinatorial Optimization (EvoCOP 2022), 20-22 April, 2022, Lecture Notes in Computer Science 13222, pages 1-16. https://link.springer.com/chapter/10.1007/978-3-031-04148-8_1 - https://github.com/Cyril-Grelier/gc_wvcp_mcts
+[4] P. Galinier, A. Hertz, and N. Zufferey, “An adaptive memory algorithm for the k-coloring problem,” Discrete Applied Mathematics, vol. 156, no. 2, pp. 267–279, Jan. 2008, doi: 10.1016/j.dam.2006.07.017.
 
-[5] Goudet, O., Grelier, C., Hao, J.-K., 2021. A deep learning guided memetic framework for graph coloring problems. arXiv:2109.05948 [cs]
+
+[5] Nogueira, Bruno, Eduardo Tavares, et Paulo Maciel. «Iterated Local Search with Tabu Search for the Weighted Vertex Coloring Problem». Computers & Operations Research 125 (1 janvier 2021): 105087. https://doi.org/10.1016/j.cor.2020.105087.
+
+[6] Cyril Grelier, Olivier Goudet, Jin-Kao Hao. On monte carlo tree search for weighted vertex voloring. Proceedings of the 22nd European Conference on Evolutionary Computation in Combinatorial Optimization (EvoCOP 2022), 20-22 April, 2022, Lecture Notes in Computer Science 13222, pages 1-16. https://link.springer.com/chapter/10.1007/978-3-031-04148-8_1 - https://github.com/Cyril-Grelier/gc_wvcp_mcts
+
+[7] Goudet, O., Grelier, C., Hao, J.-K., 2021. A deep learning guided memetic framework for graph coloring problems. arXiv:2109.05948 [cs]
 
 
 ## List of instances
