@@ -1,0 +1,132 @@
+c conversion from graph miles1500 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+r 96
+r 97
+r 60
+r 102
+r 81
+r 59
+r 118
+r 43
+r 64
+r 30
+r 117
+r 85
+r 55
+r 86
+r 36
+r 34
+r 46
+r 31
+r 11
+r 15
+r 32
+r 119
+r 35
+r 71
+r 94
+r 16
+r 84
+r 123
+r 103
+r 39
+r 25
+r 17
+r 10
+r 3
+r 58
+r 48
+r 20
+r 49
+r 8
+r 41
+r 14
+r 80
+r 62
+r 76
+r 53
+r 28
+r 111
+r 2
+r 33
+r 47
+r 120
+r 105
+r 4
+r 50
+r 21
+d 0 0
+d 1 1
+d 5 2
+d 6 3
+d 7 4
+d 9 5
+d 12 6
+d 13 7
+d 18 8
+d 19 9
+d 22 10
+d 23 11
+d 24 12
+d 26 13
+d 27 14
+d 29 15
+d 37 16
+d 38 17
+d 40 18
+d 42 19
+d 44 20
+d 45 21
+d 51 22
+d 52 23
+d 54 24
+d 56 25
+d 57 26
+d 61 27
+d 63 28
+d 65 29
+d 66 30
+d 67 31
+d 68 32
+d 69 33
+d 70 34
+d 72 35
+d 73 36
+d 74 37
+d 75 38
+d 77 39
+d 78 40
+d 79 41
+d 82 42
+d 83 43
+d 87 44
+d 88 45
+d 89 46
+d 90 47
+d 91 48
+d 92 49
+d 93 50
+d 95 51
+d 98 52
+d 99 53
+d 100 54
+d 101 55
+d 104 56
+d 106 57
+d 107 58
+d 108 59
+d 109 60
+d 110 61
+d 112 62
+d 113 63
+d 114 64
+d 115 65
+d 116 66
+d 121 67
+d 122 68
+d 124 69
+d 125 70
+d 126 71
+d 127 72

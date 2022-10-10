@@ -1,0 +1,60 @@
+c conversion from graph p33 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+r 11
+r 12
+r 33
+r 15
+r 5
+r 10
+r 6
+r 7
+r 9
+r 17
+r 26
+r 31
+r 27
+r 16
+r 14
+r 8
+r 13
+r 2
+r 4
+r 0
+r 1
+r 32
+r 25
+r 28
+r 21
+r 38
+r 3
+r 30
+r 22
+r 24
+r 42
+r 39
+r 29
+r 23
+r 40
+r 34
+r 41
+r 55
+r 53
+r 37
+r 36
+r 35
+r 50
+r 18
+r 54
+r 52
+r 51
+r 20
+r 19
+d 43 0
+d 44 1
+d 45 2
+d 46 3
+d 47 4
+d 48 5
+d 49 6

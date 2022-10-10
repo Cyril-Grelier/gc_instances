@@ -1,0 +1,104 @@
+c conversion from graph GEOM100a to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+r 87
+r 12
+r 95
+r 88
+r 93
+r 37
+r 2
+r 48
+r 92
+r 25
+r 56
+r 65
+r 49
+r 20
+r 13
+r 52
+r 36
+r 73
+r 14
+r 9
+d 0 1
+d 1 69
+d 3 55
+d 4 70
+d 5 31
+d 6 41
+d 7 2
+d 8 42
+d 10 5
+d 11 32
+d 15 33
+d 16 43
+d 17 56
+d 18 17
+d 19 71
+d 21 18
+d 22 57
+d 23 34
+d 24 58
+d 26 72
+d 27 44
+d 28 25
+d 29 19
+d 30 59
+d 31 45
+d 32 10
+d 33 35
+d 34 27
+d 35 14
+d 38 3
+d 39 60
+d 40 52
+d 41 28
+d 42 73
+d 43 9
+d 44 63
+d 45 20
+d 46 21
+d 47 26
+d 50 53
+d 51 36
+d 53 46
+d 54 74
+d 55 15
+d 57 37
+d 58 67
+d 59 38
+d 60 11
+d 61 64
+d 62 47
+d 63 65
+d 64 48
+d 66 22
+d 67 54
+d 68 75
+d 69 6
+d 70 76
+d 71 77
+d 72 39
+d 74 4
+d 75 49
+d 76 78
+d 77 7
+d 78 50
+d 79 23
+d 80 0
+d 81 66
+d 82 79
+d 83 24
+d 84 68
+d 85 61
+d 86 40
+d 89 12
+d 90 8
+d 91 16
+d 94 29
+d 96 51
+d 97 62
+d 98 30
+d 99 13

@@ -1,0 +1,118 @@
+c conversion from graph 4-FullIns_3 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+r 110
+r 111
+r 53
+r 48
+r 52
+r 49
+r 51
+r 50
+r 5
+r 4
+r 59
+r 58
+r 112
+r 41
+r 40
+r 23
+r 22
+r 25
+r 24
+r 43
+r 42
+r 71
+r 66
+r 70
+r 67
+r 69
+r 68
+r 75
+r 74
+r 3
+r 2
+r 79
+r 78
+r 77
+r 76
+r 7
+r 6
+r 63
+r 62
+r 57
+r 56
+r 45
+r 44
+r 39
+r 38
+r 27
+r 26
+r 21
+r 20
+r 113
+r 108
+r 61
+r 60
+r 89
+r 84
+r 88
+r 87
+r 86
+r 85
+r 91
+r 90
+r 1
+r 0
+r 101
+r 100
+r 99
+r 98
+r 97
+r 96
+r 95
+r 94
+r 93
+r 92
+r 73
+r 72
+r 55
+r 54
+r 37
+r 36
+r 19
+r 18
+r 11
+r 10
+r 9
+r 8
+r 83
+r 82
+r 81
+r 80
+r 65
+r 64
+r 47
+r 46
+r 29
+r 28
+r 107
+r 106
+r 105
+r 104
+r 103
+r 102
+d 12 0
+d 13 1
+d 14 2
+d 15 3
+d 16 4
+d 17 5
+d 30 6
+d 31 7
+d 32 8
+d 33 9
+d 34 10
+d 35 11
+d 109 12

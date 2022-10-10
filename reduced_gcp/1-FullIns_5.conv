@@ -1,0 +1,286 @@
+c conversion from graph 1-FullIns_5 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+r 281
+r 279
+r 265
+r 264
+r 247
+r 246
+r 269
+r 268
+r 267
+r 266
+r 256
+r 255
+r 272
+r 271
+r 270
+r 251
+r 250
+r 249
+r 248
+r 205
+r 204
+r 187
+r 186
+r 260
+r 259
+r 258
+r 257
+r 235
+r 234
+r 217
+r 216
+r 254
+r 253
+r 252
+r 209
+r 208
+r 207
+r 206
+r 196
+r 195
+r 79
+r 78
+r 61
+r 60
+r 263
+r 262
+r 261
+r 239
+r 238
+r 237
+r 236
+r 226
+r 225
+r 172
+r 171
+r 154
+r 153
+r 212
+r 211
+r 210
+r 191
+r 190
+r 189
+r 188
+r 83
+r 82
+r 81
+r 80
+r 70
+r 69
+r 275
+r 274
+r 273
+r 242
+r 241
+r 240
+r 221
+r 220
+r 219
+r 218
+r 176
+r 175
+r 174
+r 173
+r 163
+r 162
+r 200
+r 199
+r 198
+r 197
+r 86
+r 85
+r 84
+r 65
+r 64
+r 63
+r 62
+r 19
+r 18
+r 230
+r 229
+r 228
+r 227
+r 179
+r 178
+r 177
+r 158
+r 157
+r 156
+r 155
+r 112
+r 111
+r 194
+r 193
+r 192
+r 74
+r 73
+r 72
+r 71
+r 49
+r 48
+r 224
+r 223
+r 222
+r 167
+r 166
+r 165
+r 164
+r 142
+r 141
+r 203
+r 202
+r 201
+r 68
+r 67
+r 66
+r 23
+r 22
+r 21
+r 20
+r 233
+r 232
+r 231
+r 161
+r 160
+r 159
+r 116
+r 115
+r 114
+r 113
+r 77
+r 76
+r 75
+r 53
+r 52
+r 51
+r 50
+r 170
+r 169
+r 168
+r 146
+r 145
+r 144
+r 143
+r 215
+r 214
+r 213
+r 26
+r 25
+r 24
+r 5
+r 4
+r 245
+r 244
+r 243
+r 119
+r 118
+r 117
+r 98
+r 97
+r 89
+r 88
+r 87
+r 56
+r 55
+r 54
+r 35
+r 34
+r 182
+r 181
+r 180
+r 149
+r 148
+r 147
+r 128
+r 127
+r 14
+r 13
+r 107
+r 106
+r 44
+r 43
+r 137
+r 136
+r 278
+r 277
+r 276
+d 0 10
+d 1 11
+d 2 12
+d 3 13
+d 6 14
+d 7 3
+d 8 15
+d 9 16
+d 10 17
+d 11 18
+d 12 19
+d 15 20
+d 16 4
+d 17 21
+d 27 38
+d 28 2
+d 29 39
+d 30 25
+d 31 26
+d 32 27
+d 33 28
+d 36 29
+d 37 8
+d 38 30
+d 39 40
+d 40 41
+d 41 42
+d 42 43
+d 45 44
+d 46 22
+d 47 45
+d 57 53
+d 58 5
+d 59 54
+d 90 69
+d 91 0
+d 92 70
+d 93 32
+d 94 33
+d 95 34
+d 96 35
+d 99 36
+d 100 9
+d 101 37
+d 102 46
+d 103 47
+d 104 48
+d 105 49
+d 108 50
+d 109 23
+d 110 51
+d 120 61
+d 121 7
+d 122 62
+d 123 55
+d 124 56
+d 125 57
+d 126 58
+d 129 59
+d 130 31
+d 131 60
+d 132 63
+d 133 64
+d 134 65
+d 135 66
+d 138 67
+d 139 52
+d 140 68
+d 150 71
+d 151 24
+d 152 72
+d 183 73
+d 184 6
+d 185 74
+d 280 1

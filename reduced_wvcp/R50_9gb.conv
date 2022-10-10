@@ -1,0 +1,54 @@
+c conversion from graph R50_9gb to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+d 0 48
+d 1 0
+d 2 16
+d 3 29
+d 4 23
+d 5 21
+d 6 9
+d 7 5
+d 8 47
+d 9 44
+d 10 20
+d 11 45
+d 12 4
+d 13 40
+d 14 19
+d 15 27
+d 16 33
+d 17 32
+d 18 41
+d 19 39
+d 20 10
+d 21 24
+d 22 35
+d 23 2
+d 24 6
+d 25 11
+d 26 12
+d 27 43
+d 28 26
+d 29 30
+d 30 38
+d 31 25
+d 32 36
+d 33 3
+d 34 1
+d 35 8
+d 36 31
+d 37 17
+d 38 22
+d 39 28
+d 40 7
+d 41 49
+d 42 15
+d 43 13
+d 44 37
+d 45 42
+d 46 46
+d 47 14
+d 48 18
+d 49 34

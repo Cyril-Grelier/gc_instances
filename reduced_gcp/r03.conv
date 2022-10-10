@@ -1,0 +1,143 @@
+c conversion from graph r03 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+r 82
+r 81
+r 80
+r 97
+r 78
+r 83
+r 33
+r 96
+r 94
+r 76
+r 98
+r 75
+r 79
+r 100
+r 112
+r 22
+r 72
+r 99
+r 77
+r 74
+r 73
+r 70
+r 13
+r 95
+r 71
+d 0 1
+d 1 11
+d 2 12
+d 3 113
+d 4 3
+d 5 21
+d 6 0
+d 7 2
+d 8 4
+d 9 5
+d 10 6
+d 11 7
+d 12 8
+d 14 105
+d 15 63
+d 16 64
+d 17 89
+d 18 106
+d 19 107
+d 20 108
+d 21 38
+d 23 109
+d 24 22
+d 25 23
+d 26 39
+d 27 65
+d 28 66
+d 29 67
+d 30 90
+d 31 24
+d 32 68
+d 34 40
+d 35 13
+d 36 14
+d 37 25
+d 38 41
+d 39 42
+d 40 69
+d 41 43
+d 42 26
+d 43 70
+d 44 71
+d 45 91
+d 46 15
+d 47 16
+d 48 27
+d 49 44
+d 50 45
+d 51 46
+d 52 72
+d 53 92
+d 54 47
+d 55 48
+d 56 93
+d 57 94
+d 58 110
+d 59 95
+d 60 28
+d 61 73
+d 62 74
+d 63 49
+d 64 96
+d 65 17
+d 66 29
+d 67 50
+d 68 75
+d 69 51
+d 84 76
+d 85 77
+d 86 97
+d 87 18
+d 88 30
+d 89 52
+d 90 53
+d 91 54
+d 92 55
+d 93 78
+d 101 56
+d 102 98
+d 103 79
+d 104 31
+d 105 32
+d 106 80
+d 107 81
+d 108 82
+d 109 99
+d 110 57
+d 111 100
+d 113 33
+d 114 58
+d 115 83
+d 116 84
+d 117 85
+d 118 86
+d 119 87
+d 120 111
+d 121 101
+d 122 59
+d 123 60
+d 124 102
+d 125 103
+d 126 112
+d 127 104
+d 128 19
+d 129 61
+d 130 62
+d 131 34
+d 132 88
+d 133 9
+d 134 10
+d 135 20
+d 136 35
+d 137 36
+d 138 37

@@ -1,0 +1,29 @@
+c conversion from graph queen5_5 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+d 0 9
+d 1 10
+d 2 11
+d 3 12
+d 4 13
+d 5 14
+d 6 1
+d 7 2
+d 8 3
+d 9 15
+d 10 16
+d 11 4
+d 12 0
+d 13 5
+d 14 17
+d 15 18
+d 16 6
+d 17 7
+d 18 8
+d 19 19
+d 20 20
+d 21 21
+d 22 22
+d 23 23
+d 24 24

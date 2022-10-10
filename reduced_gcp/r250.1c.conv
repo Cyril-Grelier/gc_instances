@@ -1,0 +1,254 @@
+c conversion from graph r250.1c to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+r 187
+r 141
+r 51
+r 118
+r 244
+r 73
+r 185
+r 177
+r 79
+r 236
+r 81
+r 221
+r 127
+r 195
+r 142
+r 249
+r 96
+r 74
+r 32
+r 101
+r 87
+r 90
+r 207
+r 199
+r 164
+r 140
+r 116
+r 209
+r 158
+r 208
+r 113
+r 137
+r 47
+r 228
+r 66
+r 206
+r 102
+r 33
+r 94
+r 77
+r 218
+r 231
+r 135
+r 125
+r 25
+r 112
+r 54
+r 229
+r 11
+r 72
+r 182
+r 143
+r 128
+r 123
+r 122
+r 71
+r 24
+r 248
+r 239
+r 222
+r 219
+r 190
+r 165
+r 129
+r 115
+r 99
+r 34
+r 31
+r 15
+r 5
+r 230
+r 211
+r 203
+r 172
+r 134
+r 119
+r 65
+r 64
+r 57
+r 43
+r 232
+r 226
+r 220
+r 192
+r 191
+r 171
+r 159
+r 153
+r 150
+r 136
+r 105
+r 100
+r 84
+r 69
+r 50
+r 37
+r 30
+r 29
+r 26
+r 17
+r 13
+r 237
+r 234
+r 215
+r 188
+r 175
+r 174
+r 170
+r 157
+r 152
+r 149
+r 138
+r 133
+r 110
+r 103
+r 93
+r 82
+r 75
+r 67
+r 60
+r 40
+r 39
+r 7
+r 235
+r 233
+r 227
+r 204
+r 202
+r 201
+r 198
+r 197
+r 189
+r 184
+r 179
+r 166
+r 139
+r 130
+r 124
+r 78
+r 44
+r 42
+r 38
+r 35
+r 23
+r 21
+r 20
+r 8
+r 4
+r 0
+r 243
+r 223
+r 210
+r 176
+r 156
+r 151
+r 145
+r 120
+r 117
+r 109
+r 104
+r 92
+r 88
+r 68
+r 62
+r 53
+r 14
+r 225
+r 214
+r 212
+r 167
+r 155
+r 108
+r 83
+r 49
+r 45
+r 22
+r 18
+r 61
+r 161
+r 89
+r 16
+r 59
+d 1 0
+d 2 1
+d 3 2
+d 6 3
+d 9 4
+d 10 5
+d 12 6
+d 19 7
+d 27 8
+d 28 9
+d 36 10
+d 41 11
+d 46 12
+d 48 60
+d 52 13
+d 55 61
+d 56 14
+d 58 15
+d 63 16
+d 70 17
+d 76 18
+d 80 19
+d 85 20
+d 86 21
+d 91 22
+d 95 62
+d 97 23
+d 98 24
+d 106 25
+d 107 26
+d 111 27
+d 114 28
+d 121 63
+d 126 29
+d 131 30
+d 132 31
+d 144 32
+d 146 33
+d 147 34
+d 148 35
+d 154 36
+d 160 37
+d 162 64
+d 163 65
+d 168 38
+d 169 39
+d 173 40
+d 178 41
+d 180 42
+d 181 66
+d 183 43
+d 186 44
+d 193 45
+d 194 46
+d 196 47
+d 200 48
+d 205 49
+d 213 50
+d 216 51
+d 217 52
+d 224 53
+d 238 54
+d 240 55
+d 241 56
+d 242 57
+d 245 67
+d 246 58
+d 247 59

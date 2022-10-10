@@ -1,0 +1,215 @@
+c conversion from graph zeroin.i.2 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+r 46
+r 173
+r 149
+r 112
+r 99
+r 54
+r 49
+r 79
+r 89
+r 153
+r 150
+r 172
+r 157
+r 156
+r 111
+r 52
+r 48
+r 43
+r 76
+r 123
+r 201
+r 101
+r 37
+r 36
+r 105
+r 208
+r 148
+r 110
+r 100
+r 108
+r 179
+r 206
+r 202
+r 114
+r 104
+r 57
+r 34
+r 77
+r 64
+r 180
+r 164
+r 125
+r 62
+r 81
+r 73
+r 65
+r 106
+r 184
+r 167
+r 107
+r 177
+r 188
+r 187
+r 39
+r 90
+r 145
+r 126
+r 200
+r 168
+r 118
+r 94
+r 92
+r 97
+r 95
+r 93
+r 85
+r 38
+r 185
+r 181
+r 186
+r 158
+r 102
+r 88
+r 98
+r 193
+r 170
+r 75
+r 74
+r 70
+r 113
+r 103
+r 51
+r 91
+r 72
+r 166
+r 121
+r 154
+r 152
+r 115
+r 86
+r 128
+r 71
+r 163
+r 147
+r 117
+r 96
+r 87
+r 146
+r 159
+r 45
+r 155
+r 182
+r 151
+r 160
+r 33
+r 84
+r 41
+r 129
+r 127
+r 183
+r 122
+d 0 0
+d 1 98
+d 2 40
+d 3 18
+d 4 47
+d 5 58
+d 6 7
+d 7 76
+d 8 56
+d 9 51
+d 10 55
+d 11 50
+d 12 31
+d 13 63
+d 14 6
+d 15 46
+d 16 5
+d 17 74
+d 18 48
+d 19 8
+d 20 29
+d 21 81
+d 22 20
+d 23 64
+d 24 33
+d 25 32
+d 26 62
+d 27 42
+d 28 43
+d 29 99
+d 30 78
+d 31 44
+d 32 16
+d 35 57
+d 40 59
+d 42 14
+d 44 88
+d 47 15
+d 50 19
+d 53 41
+d 55 24
+d 56 96
+d 58 71
+d 59 37
+d 60 94
+d 61 66
+d 63 3
+d 66 77
+d 67 86
+d 68 79
+d 69 30
+d 78 53
+d 80 97
+d 82 36
+d 83 91
+d 109 27
+d 116 4
+d 119 54
+d 120 21
+d 124 89
+d 130 28
+d 131 13
+d 132 17
+d 133 92
+d 134 65
+d 135 90
+d 136 82
+d 137 34
+d 138 72
+d 139 75
+d 140 84
+d 141 73
+d 142 70
+d 143 83
+d 144 10
+d 161 93
+d 162 49
+d 165 11
+d 169 12
+d 171 35
+d 174 26
+d 175 9
+d 176 87
+d 178 60
+d 189 1
+d 190 85
+d 191 80
+d 192 95
+d 194 2
+d 195 68
+d 196 69
+d 197 45
+d 198 52
+d 199 25
+d 203 67
+d 204 38
+d 205 22
+d 207 39
+d 209 61
+d 210 23

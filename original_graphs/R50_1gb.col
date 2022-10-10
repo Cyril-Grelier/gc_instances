@@ -1,0 +1,122 @@
+c DESCRIPTION: Quasi-random coloring problem
+c CODE SOURCE: Joseph Culberson (joe@cs.ualberta.ca)
+c Specifications: 
+c   Random seed: 46327
+c   No hidden coloring
+c   Probability: 0.100000
+c   random IID graph
+c   Degree Information:
+c   Min:0 Avg:4.320000 Max:8 Std:1.725572
+c No verification required.
+c Creation Date: Fri Aug  8 11:36:17 2003
+c no cheat
+c not original file ! Modified for weighted vertex coloring problem
+p edge 50 108
+e 1 8
+e 1 9
+e 1 45
+e 1 49
+e 2 7
+e 2 15
+e 2 19
+e 2 38
+e 2 42
+e 3 8
+e 3 14
+e 3 18
+e 4 7
+e 4 9
+e 4 14
+e 4 34
+e 5 22
+e 5 28
+e 5 31
+e 5 35
+e 5 47
+e 6 34
+e 6 42
+e 6 44
+e 6 50
+e 7 20
+e 7 33
+e 7 35
+e 7 43
+e 7 47
+e 8 13
+e 8 30
+e 8 45
+e 9 15
+e 9 17
+e 9 27
+e 9 41
+e 10 11
+e 10 21
+e 10 42
+e 10 49
+e 11 14
+e 11 17
+e 11 22
+e 11 24
+e 11 31
+e 11 32
+e 11 49
+e 12 19
+e 12 48
+e 13 20
+e 13 21
+e 13 32
+e 13 34
+e 13 35
+e 13 36
+e 13 40
+e 14 40
+e 14 41
+e 14 47
+e 15 22
+e 15 31
+e 15 42
+e 16 24
+e 16 39
+e 16 45
+e 18 19
+e 18 40
+e 19 27
+e 19 33
+e 20 25
+e 20 26
+e 20 43
+e 21 47
+e 21 49
+e 21 50
+e 22 44
+e 22 48
+e 23 44
+e 23 46
+e 24 30
+e 24 44
+e 26 48
+e 27 37
+e 27 41
+e 28 31
+e 28 49
+e 31 34
+e 31 36
+e 31 39
+e 32 45
+e 32 50
+e 33 48
+e 34 36
+e 34 39
+e 34 40
+e 35 38
+e 35 50
+e 36 47
+e 37 39
+e 37 41
+e 38 47
+e 41 42
+e 41 43
+e 41 44
+e 42 46
+e 44 48
+e 46 50

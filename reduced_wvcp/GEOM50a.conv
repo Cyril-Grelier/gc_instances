@@ -1,0 +1,54 @@
+c conversion from graph GEOM50a to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+r 27
+r 39
+r 13
+r 38
+r 4
+r 19
+r 44
+r 26
+r 34
+r 40
+r 28
+r 1
+r 36
+r 12
+r 9
+r 30
+r 42
+r 37
+r 48
+r 11
+r 20
+r 14
+d 0 25
+d 2 6
+d 3 24
+d 5 27
+d 6 23
+d 7 26
+d 8 5
+d 10 18
+d 15 15
+d 16 3
+d 17 19
+d 18 21
+d 21 14
+d 22 9
+d 23 7
+d 24 8
+d 25 16
+d 29 1
+d 31 11
+d 32 13
+d 33 4
+d 35 22
+d 41 2
+d 43 17
+d 45 10
+d 46 0
+d 47 12
+d 49 20

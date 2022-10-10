@@ -1,0 +1,53 @@
+c conversion from graph queen7_7 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+d 0 25
+d 1 26
+d 2 27
+d 3 28
+d 4 29
+d 5 30
+d 6 31
+d 7 32
+d 8 9
+d 9 10
+d 10 11
+d 11 12
+d 12 13
+d 13 33
+d 14 34
+d 15 14
+d 16 1
+d 17 2
+d 18 3
+d 19 15
+d 20 35
+d 21 36
+d 22 16
+d 23 4
+d 24 0
+d 25 5
+d 26 17
+d 27 37
+d 28 38
+d 29 18
+d 30 6
+d 31 7
+d 32 8
+d 33 19
+d 34 39
+d 35 40
+d 36 20
+d 37 21
+d 38 22
+d 39 23
+d 40 24
+d 41 41
+d 42 42
+d 43 43
+d 44 44
+d 45 45
+d 46 46
+d 47 47
+d 48 48

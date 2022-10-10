@@ -1,0 +1,129 @@
+c conversion from graph r125.1c to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+r 111
+r 85
+r 46
+r 75
+r 33
+r 124
+r 120
+r 89
+r 74
+r 29
+r 21
+r 7
+r 77
+r 25
+r 5
+r 90
+r 70
+r 59
+r 53
+r 38
+r 18
+r 91
+r 79
+r 72
+r 66
+r 61
+r 50
+r 115
+r 108
+r 99
+r 93
+r 86
+r 40
+r 37
+r 28
+r 20
+r 17
+r 4
+r 118
+r 112
+r 109
+r 95
+r 87
+r 84
+r 82
+r 80
+r 71
+r 62
+r 60
+r 54
+r 51
+r 43
+r 41
+r 31
+r 121
+r 117
+r 113
+r 107
+r 103
+r 94
+r 73
+r 58
+r 52
+r 49
+r 39
+r 34
+r 32
+r 24
+r 23
+r 14
+r 11
+r 3
+r 2
+r 0
+r 76
+r 64
+r 30
+r 6
+r 69
+d 1 0
+d 8 1
+d 9 2
+d 10 3
+d 12 4
+d 13 5
+d 15 6
+d 16 7
+d 19 8
+d 22 9
+d 26 10
+d 27 11
+d 35 12
+d 36 13
+d 42 14
+d 44 15
+d 45 16
+d 47 17
+d 48 18
+d 55 19
+d 56 20
+d 57 21
+d 63 22
+d 65 23
+d 67 24
+d 68 25
+d 78 26
+d 81 27
+d 83 28
+d 88 29
+d 92 30
+d 96 31
+d 97 32
+d 98 33
+d 100 34
+d 101 35
+d 102 36
+d 104 37
+d 105 38
+d 106 39
+d 110 40
+d 114 41
+d 116 42
+d 119 43
+d 122 44
+d 123 45

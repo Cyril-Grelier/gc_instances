@@ -1,0 +1,142 @@
+c conversion from graph anna to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+r 32
+r 88
+r 71
+r 94
+r 76
+r 20
+r 53
+r 99
+r 44
+r 84
+r 63
+r 107
+r 77
+r 19
+r 128
+r 124
+r 120
+r 113
+r 112
+r 106
+r 87
+r 86
+r 85
+r 70
+r 65
+r 55
+r 47
+r 42
+r 41
+r 38
+r 30
+r 26
+r 22
+r 14
+r 4
+r 3
+r 2
+r 1
+r 0
+r 131
+r 127
+r 123
+r 118
+r 110
+r 104
+r 101
+r 95
+r 79
+r 74
+r 68
+r 62
+r 49
+r 40
+r 37
+r 23
+r 9
+r 7
+r 133
+r 116
+r 109
+r 103
+r 102
+r 97
+r 96
+r 89
+r 83
+r 81
+r 66
+r 64
+r 61
+r 59
+r 54
+r 51
+r 43
+r 39
+r 34
+r 24
+r 21
+r 13
+r 12
+r 11
+r 10
+r 136
+r 130
+r 121
+r 111
+r 93
+r 57
+r 46
+r 33
+r 27
+r 16
+r 125
+r 122
+r 108
+r 78
+r 52
+r 48
+r 36
+r 25
+r 129
+r 114
+r 100
+r 92
+r 75
+r 72
+r 50
+r 45
+r 31
+r 18
+r 15
+r 8
+r 5
+r 126
+r 119
+r 117
+r 105
+r 91
+r 67
+r 58
+r 56
+r 29
+r 60
+r 28
+r 69
+r 132
+r 82
+d 6 0
+d 17 1
+d 35 2
+d 73 3
+d 80 4
+d 90 5
+d 98 6
+d 115 7
+d 134 8
+d 135 9
+d 137 10

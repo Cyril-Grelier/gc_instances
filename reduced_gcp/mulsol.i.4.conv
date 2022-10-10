@@ -1,0 +1,189 @@
+c conversion from graph mulsol.i.4 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+r 172
+r 81
+r 173
+r 87
+r 32
+r 106
+r 181
+r 178
+r 158
+r 156
+r 150
+r 148
+r 140
+r 138
+r 126
+r 107
+r 184
+r 183
+r 125
+r 174
+r 165
+r 164
+r 160
+r 159
+r 67
+r 61
+r 175
+r 75
+r 74
+r 58
+r 182
+r 177
+r 71
+r 57
+r 56
+r 36
+r 176
+r 73
+r 72
+r 55
+r 54
+r 180
+r 179
+r 68
+r 47
+r 44
+r 76
+r 46
+r 43
+r 166
+r 63
+r 45
+r 42
+r 167
+r 77
+r 41
+r 168
+r 90
+r 83
+r 78
+r 40
+r 169
+r 93
+r 79
+r 39
+r 170
+r 147
+r 137
+r 124
+r 121
+r 120
+r 111
+r 105
+r 104
+r 103
+r 102
+r 101
+r 100
+r 99
+r 96
+r 38
+r 171
+r 157
+r 155
+r 154
+r 153
+r 152
+r 151
+r 149
+r 146
+r 145
+r 144
+r 139
+r 136
+r 134
+r 133
+r 123
+r 122
+r 117
+r 116
+r 110
+r 109
+r 108
+r 98
+r 97
+r 86
+r 80
+r 37
+r 35
+r 34
+r 131
+r 129
+d 0 0
+d 1 1
+d 2 15
+d 3 28
+d 4 29
+d 5 30
+d 6 31
+d 7 32
+d 8 33
+d 9 34
+d 10 35
+d 11 36
+d 12 37
+d 13 38
+d 14 39
+d 15 40
+d 16 2
+d 17 42
+d 18 41
+d 19 16
+d 20 12
+d 21 10
+d 22 8
+d 23 6
+d 24 4
+d 25 3
+d 26 43
+d 27 44
+d 28 45
+d 29 46
+d 30 47
+d 31 48
+d 33 61
+d 48 5
+d 49 7
+d 50 9
+d 51 11
+d 52 13
+d 53 17
+d 59 14
+d 60 49
+d 62 50
+d 64 51
+d 65 52
+d 66 53
+d 69 54
+d 70 18
+d 82 19
+d 84 20
+d 85 21
+d 88 22
+d 89 23
+d 91 24
+d 92 25
+d 94 26
+d 95 27
+d 112 57
+d 113 58
+d 114 59
+d 115 55
+d 118 62
+d 119 63
+d 127 64
+d 128 65
+d 130 66
+d 132 67
+d 135 68
+d 141 69
+d 142 70
+d 143 71
+d 161 56
+d 162 60
+d 163 72

@@ -1,0 +1,15 @@
+c conversion from graph myciel3 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+d 0 1
+d 1 2
+d 2 3
+d 3 4
+d 4 5
+d 5 6
+d 6 7
+d 7 8
+d 8 9
+d 9 10
+d 10 0

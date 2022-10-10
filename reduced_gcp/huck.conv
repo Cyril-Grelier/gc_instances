@@ -1,0 +1,78 @@
+c conversion from graph huck to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+r 72
+r 43
+r 56
+r 40
+r 8
+r 21
+r 3
+r 69
+r 60
+r 53
+r 32
+r 27
+r 25
+r 6
+r 64
+r 57
+r 47
+r 44
+r 36
+r 34
+r 31
+r 15
+r 14
+r 70
+r 65
+r 62
+r 41
+r 29
+r 52
+r 35
+r 23
+r 2
+r 73
+r 50
+r 9
+r 71
+r 68
+r 45
+r 37
+r 13
+r 7
+r 63
+r 38
+r 33
+r 20
+r 19
+r 5
+r 67
+r 66
+r 55
+r 46
+r 30
+r 22
+r 18
+r 11
+r 1
+r 61
+r 59
+r 51
+r 42
+r 26
+r 17
+r 16
+d 0 0
+d 4 1
+d 10 2
+d 12 3
+d 24 4
+d 28 5
+d 39 6
+d 48 7
+d 49 8
+d 54 9
+d 58 10

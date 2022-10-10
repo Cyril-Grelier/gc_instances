@@ -1,0 +1,44 @@
+c conversion from graph GEOM40 to reduce version
+c lines starting with c : comments
+c lines starting with d : the first number is the number of the vertex in original graph, the second in the reduced graph
+c lines starting with r : the vertices can be colored with the first available color without increasing the score
+r 29
+r 22
+r 24
+r 14
+r 9
+r 18
+r 21
+r 20
+r 0
+r 39
+r 25
+r 10
+r 23
+r 13
+r 32
+r 19
+r 2
+r 4
+r 1
+r 7
+r 35
+d 3 16
+d 5 7
+d 6 3
+d 8 5
+d 11 18
+d 12 1
+d 15 12
+d 16 11
+d 17 4
+d 26 17
+d 27 13
+d 28 8
+d 30 15
+d 31 9
+d 33 10
+d 34 2
+d 36 14
+d 37 6
+d 38 0
