@@ -80,9 +80,9 @@ See those article for the origin of the scores :
 
 - Y. Wang, S. Cai, S. Pan, X. Li, and M. Yin, “Reduction and Local Search for Weighted Graph Coloring Problem,” AAAI, vol. 34, no. 03, Art. no. 03, Apr. 2020, doi: 10.1609/aaai.v34i03.5624.
 
-- Nogueira, Bruno, Eduardo Tavares, et Paulo Maciel. «Iterated Local Search with Tabu Search for the Weighted Vertex Coloring Problem». Computers & Operations Research 125 (1 janvier 2021): 105087. https://doi.org/10.1016/j.cor.2020.105087.
+- Nogueira Bruno, Eduardo Tavares, et Paulo Maciel. «Iterated Local Search with Tabu Search for the Weighted Vertex Coloring Problem». Computers & Operations Research 125 (1 janvier 2021): 105087. https://doi.org/10.1016/j.cor.2020.105087.
 
-- Goudet, O., Grelier, C., Hao, J.-K., 2021. A deep learning guided memetic framework for graph coloring problems. arXiv:2109.05948 [cs]
+- Goudet Olivier, Cyril Grelier, and Jin-Kao Hao. “A Deep Learning Guided Memetic Framework for Graph Coloring Problems.” Knowledge-Based Systems 258 (December 22, 2022): 109986. https://doi.org/10.1016/j.knosys.2022.109986.
 
 - Cyril Grelier, Olivier Goudet, Jin-Kao Hao. On monte carlo tree search for weighted vertex voloring. Proceedings of the 22nd European Conference on Evolutionary Computation in Combinatorial Optimization (EvoCOP 2022), 20-22 April, 2022, Lecture Notes in Computer Science 13222, pages 1-16. https://link.springer.com/chapter/10.1007/978-3-031-04148-8_1 - https://github.com/Cyril-Grelier/gc_wvcp_mcts
 
