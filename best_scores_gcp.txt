@@ -12,7 +12,7 @@
 2-Insertions_5 6 -
 3-FullIns_3 6 *
 3-FullIns_4 7 -
-3-FullIns_5 8 ?
+3-FullIns_5 8 -
 3-Insertions_3 4 *
 3-Insertions_4 5 -
 3-Insertions_5 6 -
