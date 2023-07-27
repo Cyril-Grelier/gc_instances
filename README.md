@@ -68,7 +68,7 @@ Based reduction from :
 
 `best_score_wvcp.txt` and `best_score_gcp.txt` list the best known scores for each problem.
 
-On each line you can find : the name of the instance, the score, a `*` if the score is proved optimal otherwise a `-` if non proved optimal and `?` if the score is unknown (I just used [3], [4], [6] and [7] to fill this file for the moment)
+On each line you can find : the name of the instance, the score, a `*` if the score is proved optimal otherwise a `-` if non proved optimal and `?` if the score is unknown.
 
 Most of these scores are reported scores, the solutions linked to the score are not always available to validate the score and the time spent to reach these scores depends on the article.
 

@@ -413,7 +413,7 @@ def main():
     #     reduced_directory="reduced_1",
     # )
 
-    # add commun neighbors rule
+    # add neighbors to cliques rules
     # compute_reduction_for_problem(
     #     problem="wvcp",
     #     use_commun_neighbors=False,
@@ -422,7 +422,7 @@ def main():
     #     reduced_directory="reduced_2",
     # )
 
-    # add neighbors to cliques rules
+    # add commun neighbors rule
     # compute_reduction_for_problem(
     #     problem="wvcp",
     #     use_commun_neighbors=True,
@@ -432,22 +432,51 @@ def main():
     # )
 
     # add iterations
-    # compute_reduction_for_problem(
-    #     problem="wvcp",
-    #     use_commun_neighbors=True,
-    #     use_neighbors_clique=True,
-    #     iterate=True,
-    #     reduced_directory="reduced_wvcp",
-    # )
-
-    # for gcp
     compute_reduction_for_problem(
-        problem="gcp",
+        problem="wvcp",
         use_commun_neighbors=True,
         use_neighbors_clique=True,
         iterate=True,
-        reduced_directory="reduced_gcp",
+        reduced_directory="reduced_wvcp",
     )
+
+    # for gcp
+
+    # base algorithm (RedLS article)
+    # compute_reduction_for_problem(
+    #     problem="gcp",
+    #     use_commun_neighbors=False,
+    #     use_neighbors_clique=False,
+    #     iterate=False,
+    #     reduced_directory="reduced_1",
+    # )
+
+    # add neighbors to cliques rules
+    # compute_reduction_for_problem(
+    #     problem="gcp",
+    #     use_commun_neighbors=False,
+    #     use_neighbors_clique=True,
+    #     iterate=False,
+    #     reduced_directory="reduced_2",
+    # )
+
+    # add commun neighbors rule
+    # compute_reduction_for_problem(
+    #     problem="gcp",
+    #     use_commun_neighbors=True,
+    #     use_neighbors_clique=True,
+    #     iterate=False,
+    #     reduced_directory="reduced_3",
+    # )
+
+    # add iterations
+    # compute_reduction_for_problem(
+    #     problem="gcp",
+    #     use_commun_neighbors=True,
+    #     use_neighbors_clique=True,
+    #     iterate=True,
+    #     reduced_directory="reduced_gcp",
+    # )
 
 
 if __name__ == "__main__":

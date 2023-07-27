@@ -3,8 +3,8 @@ C2000.9 5477 -
 DSJC1000.1 300 -
 DSJC1000.5 1185 -
 DSJC1000.9 2836 -
-DSJC125.1gb 90 -
-DSJC125.1g 23 -
+DSJC125.1gb 90 *
+DSJC125.1g 23 *
 DSJC125.5gb 240 -
 DSJC125.5g 71 -
 DSJC125.9gb 604 *
@@ -15,7 +15,7 @@ DSJC250.9 934 *
 DSJC500.1 184 -
 DSJC500.5 685 -
 DSJC500.9 1662 -
-DSJR500.1 169 -
+DSJR500.1 169 *
 flat1000_50_0 924 -
 flat1000_60_0 1162 -
 flat1000_76_0 1165 -
@@ -61,7 +61,7 @@ le450_15b 216 -
 le450_15c 275 -
 le450_15d 272 -
 le450_25a 306 -
-le450_25b 307 -
+le450_25b 307 *
 le450_25c 342 -
 le450_25d 330 -
 miles1000 431 *
@@ -71,10 +71,10 @@ miles500 260 *
 mulsol.i.5 367 *
 myciel5gb 69 *
 myciel5g 22 *
-myciel6gb 94 -
-myciel6g 26 -
-myciel7gb 109 -
-myciel7g 29 -
+myciel6gb 94 *
+myciel6g 26 *
+myciel7gb 109 *
+myciel7g 29 *
 p06 565 *
 p07 3771 *
 p08 4049 *
@@ -112,7 +112,7 @@ p41 2688 *
 p42 2466 *
 queen10_10 162 -
 queen10_10gb 164 -
-queen10_10g 43 -
+queen10_10g 43 *
 queen11_11 172 -
 queen11_11gb 176 -
 queen11_11g 47 -
@@ -126,7 +126,7 @@ queen16_16 234 -
 queen8_8gb 132 *
 queen8_8g 36 *
 queen9_9gb 159 -
-queen9_9g 41 -
+queen9_9g 41 *
 r01 6724 *
 r02 6771 *
 r03 6473 *
