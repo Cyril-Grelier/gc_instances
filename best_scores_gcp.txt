@@ -29,10 +29,10 @@ homer 13 *
 huck 11 *
 jean 10 *
 games120 9 *
-abb313GPIA 11 -
+abb313GPIA 9 -
 ash331GPIA 4 -
-ash608GPIA 5 -
-ash958GPIA 5 -
+ash608GPIA 4 *
+ash958GPIA 4 *
 will199GPIA 7 -
 C2000.5 145 -
 C2000.9 408 -
@@ -165,7 +165,7 @@ p40 10 *
 p41 13 *
 p42 14 *
 qg.order30 30 -
-qg.order40 40 -
+qg.order40 40 *
 qg.order60 60 *
 qg.order100 100 *
 queen5_5 5 *
@@ -227,7 +227,7 @@ R75_1g 4 *
 R75_5g 13 -
 R75_9g 33 *
 R100_1g 5 -
-R100_5g 16 -
+R100_5g 14 -
 R100_9g 35 *
 school1 14 *
 school1_nsh 14 *
