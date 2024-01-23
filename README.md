@@ -2,6 +2,10 @@
 
 This repo lists several instances used in the Graph Coloring Problem (GCP) and the Weighted Vertex Coloring Problem (WVCP), original graph and reduced version.
 
+The work about the reduction is related to the article :
+New Bounds and Constraint Programming Models for the Weighted Vertex Coloring Problem, Olivier Goudet and Cyril Grelier and David Lesaint. IJCAI-23. https://www.ijcai.org/proceedings/2023/214
+
+
 ## Usage
 
 ### add this module to your project :
