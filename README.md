@@ -56,7 +56,8 @@ If you find an error please inform us.
 
 ## About the reduction
 
-This section will be published in the futur.
+Details of the reduction are published in this article : https://www.ijcai.org/proceedings/2023/214
+You can find and exemple of the reduction here : https://cyril-grelier.github.io/graph_coloring/2023/11/10/demo_reduction.html
 
 Based reduction from :
 
